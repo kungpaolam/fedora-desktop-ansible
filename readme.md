@@ -1,6 +1,6 @@
 # fedora-desktop-ansible #
 
-This is my provisioner for the Fedora 26 Gnome3 / Wayland
+This is my provisioner for the Fedora 27 Gnome3 / Wayland
 generic desktop. Feel free to use it, modify, contribute etc.
 Always interested in your comments - write me!
 
@@ -46,7 +46,3 @@ multi - desktop configuration:
    (which is a basic merge so it's not a rocket science).
 1. Second is to keep every workstation provisioner in different playbook (e.g. in **plays** directory).
    In this scenario you keep all hosts configuration in one **hosts** file.
-
-Maciej Lasyk
-@docent-net
-http://maciej.lasyk.info
