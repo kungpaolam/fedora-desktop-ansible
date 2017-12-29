@@ -12,32 +12,32 @@
     - packages
     - git
     - oh-my-zsh
-    - vlc
-    - virtualbox
-    - google-chrome
+    - audacious
+    - aws
     - chrome-gnome-shell
     - docker
-    - hstr
-    - wireshark
-    - slack
-    - fonts
     - evernote
+    - exercism.io
+    - fonts
     - gitkraken
-    - pycharm
-    - aws
+    - gnome-tweak-tool
+    - google-chrome
     - hashicorp_packer
     - hashicorp_terraform
-    - exercism.io
-    - xed
+    - hstr
+    - jq
     - keepassx
-    - p7zip
-    - xfreerdp
-    - gnome-tweak-tool
-    - vokoscreen
-    - pavucontrol
-    - meld
-    - audacious
     - lftp
-    - slack
-    - pulse
+    - meld
+    - p7zip
+    - pavucontrol
     - pinta
+    - pulse
+    - pycharm
+    - slack
+    - virtualbox
+    - vlc
+    - vokoscreen
+    - wireshark
+    - xed
+    - xfreerdp
