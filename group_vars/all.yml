@@ -8,8 +8,8 @@ home_dir: /home/docent       # your user's homedir
 local_soft_dir: /home/docent/soft  # where to save local installations of software
 local_bin_dir: /home/docent/bin  # local bin directory for various binaries
 git:
-    username: Maciej Lasyk   # your git Name
-    email: maciej@lasyk.info  # your git e-mail address
+    username: TODO_username   # your git Name
+    email: TODO_email  # your git e-mail address
 
 sys:
   vm:
