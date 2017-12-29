@@ -13,19 +13,17 @@
     - git
     - oh-my-zsh
     - vlc
-    - firefox
     - virtualbox
     - google-chrome
+    - chrome-gnome-shell
     - docker
     - hstr
     - wireshark
-    - sysdig
     - slack
     - fonts
     - evernote
     - gitkraken
     - pycharm
-    - intellij
     - aws
     - hashicorp_packer
     - hashicorp_terraform
@@ -39,5 +37,7 @@
     - pavucontrol
     - meld
     - audacious
-    - chrome-gnome-shell
     - lftp
+    - slack
+    - pulse
+    - pinta
